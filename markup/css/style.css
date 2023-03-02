@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', Arial, Helvetica, sans-serif ;
+    font-weight: 400;
+}
+
+.container {
+    max-width: 1150px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* HEADER */
+
+.first_section {
+    background-color: #E5E5E5;
+    font-size: 14px;
+    line-height: 16.41px;
+}
+
+.top_navigation {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+}
+
+.first_nav li {
+    list-style: none;
+    display: inline-block;
+    margin:17px 30px 16px 0;
+}
+
+.top_navigation li:last-child {
+    margin-right: 0px;
+}
+
+.first_nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+
+
+/* HEADER */
